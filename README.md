@@ -1,9 +1,9 @@
 ### Hi there 👋 my name is Jasey.
 - I like to build beautiful custom websites for businesses that need them. As I learn more, I will get involved in building software and one day create my own.
 
-- I’m currently learning to write more complex JavaScript and React. After that I will move onto APIs and Microservices.
+- I’m currently learning about the MERN stack and deploying full-stack web applications.
 
-- I’m looking to collaborate on any project that sparks my interest. That includes anything innovative having to do do with tech, AI, machine learning, etc.
+- I’m looking to collaborate on any project that sparks my interest. That includes anything innovative having to do do with the web, tech, AI, machine learning, etc.
 
 - You can reach me at jaseyhsmith@gmail.com.
 
